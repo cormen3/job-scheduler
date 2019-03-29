@@ -17,7 +17,7 @@ Here are example when you would use this job scheduler:
 •	Tasks that should be running on a regular basis as batch where the timing is not critical
 
 
-#inspired from : 
+#convert to kotlin from this repo : 
 
 https://github.com/googlesamples/android-JobScheduler
 
