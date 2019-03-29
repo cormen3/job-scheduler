@@ -16,3 +16,8 @@ Here are example when you would use this job scheduler:
 
 •	Tasks that should be running on a regular basis as batch where the timing is not critical
 
+
+#inspired from : 
+
+https://github.com/googlesamples/android-JobScheduler
+
