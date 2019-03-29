@@ -7,8 +7,12 @@ The Android 5.0 Lollipop (API 21) release introduces a job scheduler API via the
 
 
 Here are example when you would use this job scheduler:
+
 •	Tasks that should be done once the device is connect to a power supply
+
 •	Tasks that require network access or a Wi-Fi connection.
+
 •	Task that are not critical or user facing
+
 •	Tasks that should be running on a regular basis as batch where the timing is not critical
 
